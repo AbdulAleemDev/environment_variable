@@ -1,0 +1,11 @@
+## Gemini API Example
+
+### Setup
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Set environment variable:
+   Gemini_api=YOUR_API_KEY
+
+3. Run:
+   python main.py
